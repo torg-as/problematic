@@ -1,0 +1,7 @@
+optConfig:
+  optSchedule:
+    timezone: Asia/Tokyo
+    days:
+      - friday
+      - saturday
+      - sunday

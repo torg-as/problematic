@@ -1,6 +1,8 @@
 optConfig:
   optSchedule:
     timezone: Asia/Tokyo
+    actions:
+      issue: false
     days:
       - friday
       - saturday

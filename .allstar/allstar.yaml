@@ -1,7 +1,7 @@
 schedule:
-  timezone: America/Los_Angeles
+  timezone: Asia/Tokyo
   actions:
     issue: false
   days:
     - thursday
-    - tuesday
+    - monday

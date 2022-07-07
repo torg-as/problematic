@@ -1,5 +1,5 @@
 schedule:
-  timezone: Asia/Tokyo
+  timezone: America/Los_Angeles
   actions:
     issue: false
   days:

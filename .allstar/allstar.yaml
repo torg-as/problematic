@@ -3,5 +3,5 @@ schedule:
   actions:
     issue: false
   days:
-    - friday
     - thursday
+    - tuesday

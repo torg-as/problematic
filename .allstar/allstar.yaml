@@ -5,5 +5,4 @@ optConfig:
       issue: false
     days:
       - friday
-      - saturday
-      - sunday
+      - thursday

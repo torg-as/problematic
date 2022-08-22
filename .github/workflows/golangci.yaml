@@ -1,6 +1,5 @@
 name: "Go lint"
-# on: [push, pull_request]
-on: []
+on: [push, pull_request]
 
 jobs:
   ci:

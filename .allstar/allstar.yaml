@@ -1,7 +1,1 @@
-schedule:
-  timezone: Asia/Tokyo
-  actions:
-    issue: false
-  days:
-    - thursday
-    - monday
+

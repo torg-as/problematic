@@ -12,7 +12,7 @@ func main() {
 
 	fmt.Println(now)
 
-	tok, err := time.LoadLocation("Asia/Tokyo")what
+	tok, err := time.LoadLocation("Asia/Tokyo")
 
 	if err != nil {
 		panic(err)

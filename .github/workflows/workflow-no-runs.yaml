@@ -1,4 +1,4 @@
-name: "Test Workflow"
+name: "No runs WF"
 on:
   registry_package:
     types: [prereleased]
